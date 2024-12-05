@@ -3,7 +3,7 @@
 #include <stdlib.h>
 #include <math.h>
 #include <unistd.h>
-
+// ahoj
 int k;
 double sin(), cos();
 int main()
